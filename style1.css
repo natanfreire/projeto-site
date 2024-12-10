@@ -21,3 +21,7 @@ h1 {
     font-size: 2em;
     color:rgb(189, 140, 235)
 }
+ 
+p > main {
+    font-size: 20px;
+}
