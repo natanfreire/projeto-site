@@ -1,0 +1,19 @@
+@charset "UTF8";
+
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+body {
+    background-color: rgb(45, 20, 68);
+}
+
+main {
+    background-color: white;
+    width: 700px;
+    margin: auto;
+    padding: 16px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.459);
+}
